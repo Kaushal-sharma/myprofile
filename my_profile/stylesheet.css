@@ -1,0 +1,59 @@
+body{
+    background-color: #EEEEEE;
+}
+#container-1{
+    position: absolute;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+    margin-top: 20%;
+    
+}
+
+#cityimg{
+    position: absolute;
+    z-index: -1;
+}
+#WK{
+    color: rgb(97, 92, 92);
+    padding: 40px;
+    text-decoration: none;
+}
+#WK:hover{
+    background-color: #EEEEEE;
+}
+#WK:focus{
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+}
+#CON{
+    color: rgb(97, 92, 92);
+    padding: 40px;
+    text-decoration: none;
+    padding: 40px 30px;
+}
+#CON:hover{
+    background-color: #EEEEEE;
+}
+
+#CON:focus{
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+}
+#MD{
+    color: rgb(97, 92, 92);
+    padding: 40px;
+    text-decoration: none;
+}
+#MD:hover{
+    background-color: #EEEEEE;
+}
+#MD:focus{
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+}
+#footer-link a:hover{
+    color:rgb(209, 219, 148);
+}
